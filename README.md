@@ -1,5 +1,6 @@
 Hey |ʘ‿ʘ)╯, I am Srijit Mukherjee.
- 
+
+# Introduction 
 I am a doctoral student in the Electrical Engineering Department at the Pennsylvania State University. I am working on brain images to build cost-effective explainable intelligent algorithms to detect a specific kind of infection inside the brain. I share my knowledge in deep learning to help learners build their skills. I enjoy solving problems with data, mathematics, probability, and programming. Currently, I am interested in applications of machine learning in medicine, biology, and healthcare. Let me give you a short background of mine.
 
 # Background
