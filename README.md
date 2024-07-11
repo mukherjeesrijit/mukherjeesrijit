@@ -1,6 +1,6 @@
 Hey |ʘ‿ʘ)╯, I am Srijit Mukherjee. I am currently working on brain images to build cost-effective explainable intelligent algorithms to detect a specific kind of infection inside the brain.
 
-Interest: Broadly, I am interested in applications of machine learning and computational algorithms in medicine, biology, and healthcare (currently: medical imaging).
+**Interest**: Broadly, I am interested in applications of machine learning and computational algorithms in medicine, biology, and healthcare (currently: medical imaging).
 
 **Introduction**:I share my knowledge in deep learning to help learners build their skills.  Let me give you a short background of mine. I enjoy solving problems with data, mathematics, probability, and programming.
 
