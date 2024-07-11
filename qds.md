@@ -3,7 +3,7 @@
 
 **Qurious Data Science** aims to help learners develop their problem-solving skills in data science and competitive problem-solving while guiding them on how to build their careers in data science in this rapidly changing world. 
 
-**Methodology:** My methodology is to help you understand and inspire you by showing you authentic examples. You can only learn from the difference between your approach, and the examples, that inspire you. The aim is to provide you with ample such examples, mostly mine, and my favorites. The following are the divisions of contribution:
+**Methodology:** The methodology is to help you understand and inspire you by showing you authentic examples. You can only learn from the difference between your approach, and the examples, that inspire you. I hope to provide you with ample examples, mostly mine and my favorites. The following are the divisions of contribution:
 
 ### Foundations
 > build your foundations in data science
