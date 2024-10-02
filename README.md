@@ -11,8 +11,8 @@ Over the years, I have taught and created content for thousands of students in
 
 ### Learn(ing):
 I have built my strong academic background in 
-* deep learning, and computational methods at the Pennsylvania State University
-* mathematics, probability, statistics, and machine learning at the Indian Statistical Institute
+* deep learning, and computational methods at [the Pennsylvania State University](https://www.psu.edu/)
+* mathematics, probability, statistics, and machine learning at the [Indian Statistical Institute](https://www.isical.ac.in/)
 * competitive math problem-solving for the mathematics olympiad in my school days
 
 ### Know more:
