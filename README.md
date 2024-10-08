@@ -6,7 +6,7 @@ else:
  I learn OR I build.
 
 Know more:
-Youtube: https://www.youtube.com/@mukherjeesrijit
-Github: https://github.com/mukherjeesrijit
-Newsletter: https://mukherjeesrijit.substack.com/
-Website: https://www.srijitmukherjee.com/
+* Youtube: https://www.youtube.com/@mukherjeesrijit
+* Github: https://github.com/mukherjeesrijit
+* Newsletter: https://mukherjeesrijit.substack.com/
+* Website: https://www.srijitmukherjee.com/
