@@ -7,3 +7,5 @@ Know more:
 * Github: https://github.com/mukherjeesrijit
 * Newsletter: https://mukherjeesrijit.substack.com/
 * Website: https://www.srijitmukherjee.com/
+
+[![Srijit Mukherjee's Github Stats](https://github-readme-stats.vercel.app/api?username=mukherjee-srijit&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
