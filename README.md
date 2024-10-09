@@ -2,10 +2,4 @@ Hey |ʘ‿ʘ)╯, I am Srijit. I am a Ph.D student in the EECS Department at the
 
 if leisure: I teach. else: I learn OR I build.
 
-Know more:
-* Youtube: https://www.youtube.com/@mukherjeesrijit
-* Github: https://github.com/mukherjeesrijit
-* Newsletter: https://mukherjeesrijit.substack.com/
-* Website: https://www.srijitmukherjee.com/
-
 [![Srijit Mukherjee's Github Stats](https://github-readme-stats.vercel.app/api?username=mukherjeesrijit&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
