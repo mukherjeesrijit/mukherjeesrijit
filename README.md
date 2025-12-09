@@ -1,3 +1,5 @@
 Hey |ʘ‿ʘ)╯, I am Srijit. I am a Ph.D. student in the EECS Department at Pennsylvania State University. I am working on brain images to build cost-effective, explainable intelligent algorithms to detect a specific kind of infection inside the brain and calculate brain volumes for hydrocephalic patients using low-field MRI. My broader research interest is building domain-enriched and explainable AI solutions in healthcare and medicine under resource-constrained settings. When I get bored with medical data, I dabble around with simple yet complex financial signals for fun. I firmly believe that the best way to learn is by being unapologetically curious, doing research & solving challenging problems with an unwavering spirit full of passion, commitment, and patience.
 
 [![Srijit Mukherjee's Github Stats](https://github-readme-stats.vercel.app/api?username=mukherjeesrijit&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Srijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukherjeesrijit)](https://github.com/anuraghazra/github-readme-stats)
